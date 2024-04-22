@@ -1,0 +1,125 @@
+{ 
+  "response_code":0,
+  "results": [
+    {
+      "type":"multiple",
+      "difficulty":"medium",
+      "category":"Science: Mathematics",
+      "question":"محیط یک مربع36سانتی متر است.مساحت این مربع چقدر است؟",
+      "correct_answer":"هشتاد و یک سانتی متر مربع",
+      "incorrect_answers": [ 
+        "سی و شش سانتی متر مربع",
+        "بیست و چهار سانتی متر مربع",
+        "هجده سانتی متر مربع"
+      ]
+    },
+    {
+      "type":"multiple",
+      "difficulty":"medium",
+      "category":"Science: Mathematics",
+      "question":"کدام عدد با کسر سه پنجم برابر است؟",
+      "correct_answer":"0.6",
+      "incorrect_answers": [
+        "0.53",
+        "0.35",
+        "0.8" 
+      ]
+    },
+    {
+      "type":"multiple",
+      "difficulty":"easy",
+      "category":"Science: Mathematics",
+      "question":"ده تیله در سک کیسه وجود دارد. پنج تا قرمز و پنج تا آبی.سوسن یک تیله را به صورت تصادفی از کیسه خارج میکند.رنگ تیله قرمز است. سپس تیله را به جای خود برمیگرداند.احتمال آنکه تیله بعدی ک به صورت تصادفی از کیسه خارج میشود قرمز باشد چطور است؟",
+      "correct_answer":"یک دوم",
+      "incorrect_answers": [
+        "چهار دهم",
+        "یک پنجم",
+        "یک دهم" 
+      ]
+    },
+    {  
+      "type":"multiple",
+      "difficulty":"medium",
+      "category":"Science: Mathematics",
+      "question":"کیمیا تخم مرغ ها را در بسته قرار میدهد.در هر بسته6 تا جای میگیرد.او 96 تا تخم مرغ دارد.کم ترین تعداد جعبه که او نیاز دارد تا تخم مرغ ها در بسته قرار دهد چندتاست؟",
+      "correct_answer":"16",
+      "incorrect_answers": [
+        "15",
+        "17",
+        "18"
+      ]
+    },
+    {
+      "type":"multiple",
+      "difficulty":"hard",
+      "category":"Science: Mathematics",
+      "question":"حاصل عبارت(42/65+5/748) کدام است؟",
+      "correct_answer":"48/398",
+      "incorrect_answers": [
+        "47/389",
+        "47/398",
+        "48/379"
+      ]
+    },
+    {
+      "type":"multiple",
+      "difficulty":"medium",
+      "category":"Science: Mathematics",
+      "question":"کدام یک از پاسخ های زیر نسان میدهد ک چطور میتوان 36 را به حاصل ضرب عامل های اول نوشت؟",
+      "correct_answer":"2×2×3×3",
+      "incorrect_answers": [
+        "44×9",
+        "3×3×4",
+        "6×6" 
+      ]
+    },
+    {
+      "type":"multiple",
+      "difficulty":"easy",
+      "category":"Science: Mathematics",
+      "question":"حاصل عبارت =۳/۴۹۳ - ۵/۴۸۹ چیست؟",
+      "correct_answer":"۱/۹۹۶",
+      "incorrect_answers": [
+        "۱/۹۹۸",
+        "۲/۹۹۶",
+        "۲/۹۹۴"
+      ]
+    },
+    {
+      "type":"multiple",
+      "difficulty":"medium",
+      "category":"Science: Mathematics",
+      "question":" اگر xعددی بین ۶ و ۹ باشد ، آنگاه ۵+x بین کدام دوعدد زیر است؟",
+      "correct_answer":"چهارده و یازده",
+      "incorrect_answers": [
+        "چهار و یک",
+        "سیزده و ده",
+        "چهل و پنج و سی"
+      ]
+    },
+    {
+      "type":"multiple",
+      "difficulty":"easy",
+      "category":"Science: Mathematics",
+      "question":"حاصل عبارت =۲/۵۹+۳/۹-۱۲/۶ را بدست آورید .",
+      "correct_answer":"۱۱/۲۹",
+      "incorrect_answers": [
+        "۱۱/۲۰",
+        "۱۰/۲۹",
+        "۱۲/۲۳" 
+      ]
+    },
+    {
+      "type":"multiple",
+      "difficulty":"medium",
+      "category":"Science: Mathematics",
+      "question":"ده دکمه قرمز هشت دکمه آبی و ۴ دکمه سفید درون یک کیسه قرار دارند.احتمال اینکه یک مهره آبی یا سفید از کیسه خارج شود چقدر است؟",
+      "correct_answer":"دوازده بر روی بیست و دو",
+      "incorrect_answers": [
+        "چهار بر روی بیست و دو",
+        "هشت بر روی بیست و دو",
+        "ده بر روی بیست و دو"
+      ]
+    }
+  ]
+}
